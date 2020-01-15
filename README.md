@@ -2,6 +2,7 @@
 - 欢迎关注公众号**《科幻宇宙》**，科学定义现在，科幻想象未来。
 - 完整文章：“[【chrome插件】公众号后台，固定侧边栏](http://baidu.com)”
 
+---
 
 - 固定侧边栏在左侧，不会随着右侧滚动。
 - 自动定位侧边栏菜单到当前选项。比如“素材管理”，再也不用上下翻找了。当前菜单选项一直可见。
@@ -20,14 +21,11 @@
 
 # chrome插件安装方法。
 
-![](/doc/333.gif)
-![](/doc/444.webp)
-
 ## 下载
 
 - 下载插件代码到目录，比如c:/weixin.sidebar
 - 或者：下载插件文件crx再解压到目录，比如weixin.sidebar.crx
-- 下载地址github: https://github.com/qingmvc
+- 下载地址github: https://github.com/qingmvc/weixin.sidebar
 
 ## 安装
 
@@ -39,3 +37,5 @@
 - 右上角开启“固定侧边栏”
 - 刷新页面：https://mp.weixin.qq.com/
 
+![](/doc/333.gif)
+![](/doc/444.webp)
