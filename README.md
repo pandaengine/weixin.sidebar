@@ -1,6 +1,6 @@
 
+- 完整教程：**[【chrome插件】公众号后台，固定侧边栏](https://mp.weixin.qq.com/s/9pSPLwdr9rVR1y3mFbvCQg)**
 - 欢迎关注公众号《**科幻宇宙**》，科学定义现在，科幻想象未来。
-- 完整文章：“[【chrome插件】公众号后台，固定侧边栏](https://mp.weixin.qq.com/s/9pSPLwdr9rVR1y3mFbvCQg)”
 
 ---
 
