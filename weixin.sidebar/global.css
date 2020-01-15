@@ -1,0 +1,15 @@
+
+.wxsb-on #js_mp_sidemenu{
+    overflow-y: scroll!important;
+	border: 1px solid #E0E1E2!important;
+	border-left: none;
+    border-right: none;
+	position: fixed;
+    top: 0;
+    bottom: 0;
+	background: #f6f8f9;
+	padding:1rem 0;
+}
+.wxsb-on .weui-desktop-menu__link_current{
+	font-weight: bold;
+}

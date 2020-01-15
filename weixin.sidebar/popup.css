@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "Microsoft YaHei","\5FAE\8F6F\96C5\9ED1",Arial,"Micro Hei",SimSun,"\5B8B\4F53",Heiti,"\9ED1\4F53",sans-serif;
+	font-size:14px;
+	background:#fff; 
+}
+
+form,ul,li{ list-style:none; margin:0px; padding:0px;}
+img{ border:none;}
+a{ text-decoration:none;color:#000;outline: medium none;}
+a:hover{ text-decoration:underline;}
+
+
+body{
+    padding: 30px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+
+#btn{
+	font-weight: bold;
+	padding: 0.5rem 1rem;
+	margin: 1rem 0;
+	
+	background: #607D8B;
+    border: none;
+	cursor: pointer;
+	color: #fff;
+}
+#btn.on{
+	background: #00BCD4;
+}
+#btn:before{
+	content:'已关闭';
+}
+#btn.on:before{
+	content:'已开启';
+}
+
+.tip{
+	color: #999;
+}

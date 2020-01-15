@@ -1,0 +1,32 @@
+{
+	"name": "微信公众平台，固定侧边栏",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "固定侧边栏(https://mp.weixin.qq.com)",
+	"browser_action": {
+		"default_popup": "popup.html"
+	},
+	"content_scripts": [
+		{
+			"all_frames": true,
+			"run_at": "document_start",
+			"css": [
+				"global.css"
+			],
+			"js": [
+				"JQ.js",
+				"config.js",
+				"content.js"
+			],
+			"matches": [
+				"https://mp.weixin.qq.com/*"
+			]
+		}
+	],
+	"permissions": [
+		"storage"
+	],
+	"icons":{
+      "180": "icon_180.png"
+   }
+}
